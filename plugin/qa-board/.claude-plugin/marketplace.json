@@ -1,0 +1,5 @@
+{
+  "name": "qa-master",
+  "owner": { "name": "darevv" },
+  "plugins": [{ "name": "qa-board", "source": "./", "description": "QA findings sidebar colored by severity, driven by the /qa workflow." }]
+}

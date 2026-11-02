@@ -1,0 +1,1 @@
+{ "name": "qa-board", "version": "0.1.0", "description": "Sidebar of QA findings grouped and colored by severity, with live fix status; fed by the /qa workflow through the qa-board update tool.", "types": "./types/index.d.ts" }
